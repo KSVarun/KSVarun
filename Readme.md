@@ -1,6 +1,6 @@
 ### Hello, I'm Varun
 
-## I'm a Developer and I like to read.
+## I'm a Developer and I like to read
 
 - 🌱 I’m currently learning go ⏩
 - 🥅 2021 Goals: Read more books and do more projects that help others 👴👵
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="KSVarun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KSVarun&show_icons=true&hide_border=true" />
+  <img align="left" alt="VarunKS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VarunKS&show_icons=true&hide_border=true" />
 
 </details>
 
