@@ -20,9 +20,9 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="MySQL" width="26px" src="/icons/mysql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.svg" />
+<img align="left" alt="Git" width="26px" src="/icons/git.svg" />
 
 <br />
 <br />
@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="VarunKS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VarunKS&show_icons=true&hide_border=true" />
+  <img align="left" alt="KSVarun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KSVarun&show_icons=true&hide_border=true" />
 
 </details>
 
