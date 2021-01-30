@@ -1,6 +1,6 @@
 ### Hello, I'm Varun
 
-## I'm a Developer and I like to read
+## I'm a Developer and I love to learn
 
 - 🌱 I’m currently learning go ⏩
 - 🥅 2021 Goals: Read more books and do more projects that help others 👴👵
