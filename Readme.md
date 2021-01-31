@@ -23,6 +23,12 @@
 <img align="left" alt="MongoDB" width="26px" src="/icons/mongodb-icon.svg" />
 <img align="left" alt="Git" width="26px" src="/icons/git.svg" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+
 
 <br />
 <br />
