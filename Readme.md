@@ -22,6 +22,7 @@
 <img align="left" alt="MySQL" width="26px" src="/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="/icons/mongodb-icon.svg" />
 <img align="left" alt="Git" width="26px" src="/icons/git.svg" />
+<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
 <br />
 <br />
