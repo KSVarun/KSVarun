@@ -3,7 +3,7 @@
 ## I'm an Engineer and I love to learn
 
 - 🌱 I’m currently learning go ⏩
-- 🥅 2022 Goals: Write blogs
+- 🥅 2026 Goals: Write blogs
 - ⚡ Fun fact: I love to draw and play piano 🎹
 
 ### Connect with me:
